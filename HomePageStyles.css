@@ -6,8 +6,8 @@
     }
 
     html {
-      scroll-behavior: smooth;
-      scroll-snap-type: y proximity;
+      /* scroll-behavior: smooth; */
+      /* scroll-snap-type: y proximity; */
       background-color: #222222;
     }
 
@@ -831,4 +831,5 @@ section.slideshow {
     font-size: 1.2em;
   }
 }
+
 
