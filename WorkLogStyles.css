@@ -372,6 +372,10 @@
   justify-content: space-evenly;
 }
 
+.border-table a {
+   color: #ffcc00;
+}
+
 @media (max-width: 768px) {
   .work-log {
     font-size: 0.85rem;
@@ -599,3 +603,4 @@ section.slideshow {
     font-size: 1.3em;
   }
 }
+
